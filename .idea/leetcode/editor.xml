@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/1047.Remove All Adjacent Duplicates In String/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/1047.Remove All Adjacent Duplicates In String/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com1047" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/1047.Remove All Adjacent Duplicates In String/solution_test.go" />
+              <option name="titleSlug" value="remove-all-adjacent-duplicates-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/142.Linked List Cycle II/solution_test.go">
           <value>
             <LeetcodeEditor>
@@ -11,6 +22,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/142.Linked List Cycle II/solution_test.go" />
               <option name="titleSlug" value="linked-list-cycle-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/15.3Sum/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/15.3Sum/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com15" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/15.3Sum/solution_test.go" />
+              <option name="titleSlug" value="3sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/151.Reverse Words in a String/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/151.Reverse Words in a String/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com151" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/151.Reverse Words in a String/solution_test.go" />
+              <option name="titleSlug" value="reverse-words-in-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -25,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/18.4Sum/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/18.4Sum/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com18" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/18.4Sum/solution_test.go" />
+              <option name="titleSlug" value="4sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/19.Remove Nth Node From End of List/solution_test.go">
           <value>
             <LeetcodeEditor>
@@ -33,6 +77,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/19.Remove Nth Node From End of List/solution_test.go" />
               <option name="titleSlug" value="remove-nth-node-from-end-of-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/20.Valid Parentheses/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/20.Valid Parentheses/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com20" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/20.Valid Parentheses/solution_test.go" />
+              <option name="titleSlug" value="valid-parentheses" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -69,6 +124,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/225.Implement Stack using Queues/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/225.Implement Stack using Queues/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com225" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/225.Implement Stack using Queues/solution_test.go" />
+              <option name="titleSlug" value="implement-stack-using-queues" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/232.Implement Queue using Stacks/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/232.Implement Queue using Stacks/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com232" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/232.Implement Queue using Stacks/solution_test.go" />
+              <option name="titleSlug" value="implement-queue-using-stacks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/24.Swap Nodes in Pairs/solution_test.go">
           <value>
             <LeetcodeEditor>
@@ -102,6 +179,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/28.Find the Index of the First Occurrence in a String/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/28.Find the Index of the First Occurrence in a String/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com28" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/28.Find the Index of the First Occurrence in a String/solution_test.go" />
+              <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/334.Increasing Triplet Subsequence/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/334.Increasing Triplet Subsequence/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com334" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/334.Increasing Triplet Subsequence/solution_test.go" />
+              <option name="titleSlug" value="increasing-triplet-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/344.Reverse String/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/344.Reverse String/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com344" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/344.Reverse String/solution_test.go" />
+              <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/349.Intersection of Two Arrays/solution_test.go">
           <value>
             <LeetcodeEditor>
@@ -110,6 +220,50 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/349.Intersection of Two Arrays/solution_test.go" />
               <option name="titleSlug" value="intersection-of-two-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/383.Ransom Note/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/383.Ransom Note/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com383" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/383.Ransom Note/solution_test.go" />
+              <option name="titleSlug" value="ransom-note" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/454.4Sum II/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/454.4Sum II/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com454" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/454.4Sum II/solution_test.go" />
+              <option name="titleSlug" value="4sum-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/459.Repeated Substring Pattern/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/459.Repeated Substring Pattern/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com459" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/459.Repeated Substring Pattern/solution_test.go" />
+              <option name="titleSlug" value="repeated-substring-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/541.Reverse String II/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/541.Reverse String II/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com541" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/541.Reverse String II/solution_test.go" />
+              <option name="titleSlug" value="reverse-string-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
