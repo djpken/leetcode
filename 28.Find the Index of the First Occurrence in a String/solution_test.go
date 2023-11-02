@@ -1,6 +1,7 @@
 package leetcode
 
 import (
+	"log"
 	"testing"
 )
 
@@ -37,31 +38,28 @@ import (
 
 // leetcode submit region begin(Prohibit modification and deletion)
 func strStr(haystack string, needle string) int {
-	if len(needle) == 0 {
-		return 0
-	}
 	next := prefixTable(needle)
 	j := -1
 	for i := 0; i < len(haystack); i++ {
 		for j >= 0 && haystack[i] != needle[j+1] {
 			j = next[j]
 		}
-		if haystack[i] == needle[j+1] {
+		if needle[j+1] == haystack[i] {
 			j++
 		}
 		if j == len(needle)-1 {
 			return i - len(needle) + 1
 		}
+
 	}
 	return -1
 }
 func prefixTable(s string) []int {
 	result := make([]int, len(s))
-
 	j := -1
 	result[0] = j
 	for i := 1; i < len(s); i++ {
-		for j >= 0 && s[i] != s[j+1] {
+		for j >= 0 && s[j+1] != s[i] {
 			j = result[j]
 		}
 		if s[i] == s[j+1] {
@@ -75,5 +73,23 @@ func prefixTable(s string) []int {
 //leetcode submit region end(Prohibit modification and deletion)
 
 func TestFindTheIndexOfTheFirstOccurrenceInAString(t *testing.T) {
+	log.Printf("%v", prefixTable("aabaaac"))
+	log.Printf("%v", getNext("aabaaac"))
+}
 
+func getNext(s string) []int {
+	j := -1 // j表示 最长相等前后缀长度
+	next := make([]int, len(s))
+	next[0] = j
+
+	for i := 1; i < len(s); i++ {
+		for j >= 0 && s[i] != s[j+1] {
+			j = next[j] // 回退前一位
+		}
+		if s[i] == s[j+1] {
+			j++
+		}
+		next[i] = j // next[i]是i（包括i）之前的最长相等前后缀长度
+	}
+	return next
 }
