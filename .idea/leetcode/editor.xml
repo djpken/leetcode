@@ -113,6 +113,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/199.Binary Tree Right Side View/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/199.Binary Tree Right Side View/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com199" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/199.Binary Tree Right Side View/solution_test.go" />
+              <option name="titleSlug" value="binary-tree-right-side-view" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/20.Valid Parentheses/solution_test.go">
           <value>
             <LeetcodeEditor>
@@ -278,6 +289,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/429.N-ary Tree Level Order Traversal/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/429.N-ary Tree Level Order Traversal/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com429" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/429.N-ary Tree Level Order Traversal/solution_test.go" />
+              <option name="titleSlug" value="n-ary-tree-level-order-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/454.4Sum II/solution_test.go">
           <value>
             <LeetcodeEditor>
@@ -322,6 +344,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/637.Average of Levels in Binary Tree/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/637.Average of Levels in Binary Tree/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com637" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/637.Average of Levels in Binary Tree/solution_test.go" />
+              <option name="titleSlug" value="average-of-levels-in-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/704.Binary Search/solution_test.go">
           <value>
             <LeetcodeEditor>
@@ -341,6 +374,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/707.Design Linked List/solution_test.go" />
               <option name="titleSlug" value="design-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/859.Buddy Strings/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/859.Buddy Strings/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com859" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/859.Buddy Strings/solution_test.go" />
+              <option name="titleSlug" value="buddy-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/873.Length of Longest Fibonacci Subsequence/solution_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/873.Length of Longest Fibonacci Subsequence/solution_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com873" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/873.Length of Longest Fibonacci Subsequence/solution_test.go" />
+              <option name="titleSlug" value="length-of-longest-fibonacci-subsequence" />
             </LeetcodeEditor>
           </value>
         </entry>

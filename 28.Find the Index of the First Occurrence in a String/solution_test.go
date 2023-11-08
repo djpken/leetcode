@@ -44,30 +44,29 @@ func strStr(haystack string, needle string) int {
 		for j >= 0 && haystack[i] != needle[j+1] {
 			j = next[j]
 		}
-		if needle[j+1] == haystack[i] {
+		if haystack[i] == needle[j+1] {
 			j++
 		}
-		if j == len(needle)-1 {
+		if j+1 == len(needle) {
 			return i - len(needle) + 1
 		}
-
 	}
 	return -1
 }
-func prefixTable(s string) []int {
-	result := make([]int, len(s))
+func prefixTable(str string) []int {
+	res := make([]int, len(str))
 	j := -1
-	result[0] = j
-	for i := 1; i < len(s); i++ {
-		for j >= 0 && s[j+1] != s[i] {
-			j = result[j]
+	res[0] = j
+	for i := 1; i < len(str); i++ {
+		for j >= 0 && str[i] != str[j+1] {
+			j = res[j]
 		}
-		if s[i] == s[j+1] {
+		if str[i] == str[j+1] {
 			j++
 		}
-		result[i] = j
+		res[i] = j
 	}
-	return result
+	return res
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
